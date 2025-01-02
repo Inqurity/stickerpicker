@@ -1,6 +1,10 @@
 {
   "packs": [
-    "kito_no_text.json"
+    "kito_no_text.json",
+    "ndygrlovrds.json",
+    "Enciikoshki.json",
+    "Rainkandy.json",
+    "kemomimichanbycarly.json"
   ],
   "homeserver_url": "https://keen-shape-50820.pktriot.net"
 }
